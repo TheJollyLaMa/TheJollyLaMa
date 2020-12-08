@@ -1,4 +1,4 @@
-<p align="center"><img align="left" height="100px" src="./images/Virabhadrasana.png">     <img src="./images/githead.png">      <img align="right" height="100px"src="./images/bubbleboy.png"></p>
+<p align="center"><img align="left" height="100px" src="./images/Virabhadrasana.png">     <img src="./images/githead.png">      <img align="right" height="100px" src="./images/bubbleboy.png"></p>
 <hr/>
 <hr/>
 <hr/>
