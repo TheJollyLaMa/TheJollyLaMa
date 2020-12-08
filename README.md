@@ -1,7 +1,6 @@
-✨✨✨✨✨✨<img src="./githead.png">✨✨✨✨✨✨
-
+<p allign="center">✨✨✨✨✨✨<img src="./githead.png">✨✨✨✨✨✨</p>
 <hr/>
-<p allign="center"><img src="./sunrise.png"></p>
+<p allign="center"><img src="./images/sunrise.png"></p>
 <hr/>                                          
 <!--
 **TheJollyLaMa/TheJollyLaMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
