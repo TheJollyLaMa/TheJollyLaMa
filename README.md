@@ -1,8 +1,8 @@
 ### Begin by knowing you have already arrived.
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/IMG_7731.png)
 
-Format: ![Alt Text](url)
+Format: ![Call Me Tator Chip](url)
 
 
 <!--
