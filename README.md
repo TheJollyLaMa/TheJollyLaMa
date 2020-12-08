@@ -1,4 +1,9 @@
-### Hi there 👋
+### Begin by knowing you have already arrived.
+
+![GitHub Logo](/images/logo.png)
+
+Format: ![Alt Text](url)
+
 
 <!--
 **TheJollyLaMa/TheJollyLaMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
