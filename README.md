@@ -1,7 +1,9 @@
-### Begin by knowing you have already arrived.
-        ![sunrise](./images/sunrise.png?raw=true)
+### begin by knowing you have already arrived
+____________________________________________________________________________________
 
+![sunrise](./images/sunrise.png?raw=true)
 
+____________________________________________________________________________________
 <!--
 **TheJollyLaMa/TheJollyLaMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
