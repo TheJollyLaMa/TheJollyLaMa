@@ -1,10 +1,8 @@
-✨✨✨✨✨✨![sunrise](./images/GitHead.png?raw=true)✨✨✨✨✨✨
+<p allign="center">✨✨✨✨✨✨<img src="./githead.png">✨✨✨✨✨✨</p>
 
-____________________________________________________________________________________
-
-<p allign="center><img src="./sunrise.png"></p>
-
-____________________________________________________________________________________
+<hr/>
+<p allign="center"><img src="./sunrise.png"></p>
+<hr/>                                          
 <!--
 **TheJollyLaMa/TheJollyLaMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
