@@ -1,4 +1,4 @@
-<p align="center"><img height="100px" src="./images/Virabhadrasana.png"><img height="100px" src="./images/githead.png"><img height="100px"src="./images/bubbleboy.png"></p>
+<p align="center"><img height="100px" src="./images/Virabhadrasana.png"><img src="./images/githead.png"><img height="100px"src="./images/bubbleboy.png"></p>
 <hr/>
 <p align="center"><img src="./images/sunrise.png"></p>
 <hr/>                                          
