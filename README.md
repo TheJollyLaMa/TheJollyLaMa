@@ -1,7 +1,6 @@
 ### Begin by knowing you have already arrived.
 
-![congaree](./images/ConPan1.png?raw=true)![congaree](./images/ConPan2.png?raw=true)![congaree](./images/ConPan3.png?raw=true)
-
+![congaree](./images/ConPan1.png?raw=true)![congaree](./images/ConPan2.png?raw=true)![congaree](./images/ConPan3.png?raw=true)![congaree](./images/ConPan4.png?raw=true)![congaree](./images/ConPan5.png?raw=true)![congaree](./images/ConPan6.png?raw=true)![congaree](./images/ConPan7.png?raw=true)![congaree](./images/ConPan8.png?raw=true)
 
 
 <!--
