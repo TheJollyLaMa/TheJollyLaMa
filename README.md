@@ -1,6 +1,6 @@
 ### Begin by knowing you have already arrived.
 
-![TheyCallMeTatorChip](/blob/main/images/IMG_7731.png)
+![TheyCallMeTatorChip](https://github.com/TheJollyLaMa/TheJollyLaMa/blob/main/images/IMG_7731.png)
 
 
 
