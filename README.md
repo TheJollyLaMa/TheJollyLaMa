@@ -1,4 +1,4 @@
-<p allign="center">✨✨✨✨✨✨<img src="./githead.png">✨✨✨✨✨✨</p>
+✨✨✨✨✨✨<img src="./githead.png">✨✨✨✨✨✨
 
 <hr/>
 <p allign="center"><img src="./sunrise.png"></p>
