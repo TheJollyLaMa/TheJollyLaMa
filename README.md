@@ -1,4 +1,5 @@
-### begin by knowing you have already arrived
+✨✨✨![sunrise](./images/GitHead.png?raw=true)✨✨✨
+
 ____________________________________________________________________________________
 
 ![sunrise](./images/sunrise.png?raw=true)
