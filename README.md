@@ -1,6 +1,6 @@
 ### Begin by knowing you have already arrived.
 
-![TheyCallMeTatorChip](./images/IMG_7731.png?raw=true)
+![TheyCallMeTatorChip](./images/TatorChip.png?raw=true)
 
 
 
